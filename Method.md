@@ -13,6 +13,7 @@ shift by several kilometers depending on the boundaries of analysis. The
 algorithm, which we term "progressive hypsometry," (PH) involves the
 measurement of hypsometric maxima in nested catchments whose outlets
 span from the lowest to the highest elevations in a mountain range.
+
 Progressive hypsometry consists of three major components:
 (i) segmentation of the landscape into large catchments,
 (ii) calculation of hypsometry along flow paths, (iii) segmentation
