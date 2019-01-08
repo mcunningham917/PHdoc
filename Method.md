@@ -72,6 +72,18 @@ into 30-60 supercatchments. We then do the following:
     13. concatenate all *N* sequences of
         *\[h\_change\_k(i),h\_bench\_k(i)\] *
 
+![Progressive hypsometry in detail](img/f04.png)
+![Progressive hypsometry in detail](/img/f04.png)
+![Progressive hypsometry in detail](/PHdoc/img/f04.png)
 
+Progressive hypsometry in detail. (a) DEM of one supercatchment from the Talamanca Range. 
+Elevation 0-4000 m is yellow through white. The dark blue streamline is an example of one 
+chain along which progressive hypsometry is performed. The bounds of each progressively 
+delineated catchment are drawn in black. (b) Modal elevation (hypsometric maximum) of 
+catchments draining to progressively higher outlet elevations along dark blue streamline 
+in (a). Each subcatchment in (a) is represented on (b). The stepped pattern in catchment 
+modal elevation is commonly observed in all landscapes. (c-f) Elevation pdf and DEM of 
+catchments at each jump in modal elevation in (b). Red dots indicate the catchment outlet 
+on both the pdf and DEM, and are also represented as red dots in (b).
 
 
