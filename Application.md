@@ -111,19 +111,3 @@ analysis:
 
 
 
-# Analyses
-
-
-![SRTM DEMs of selected tropical mountain belts](img/f03.png)
-
-### Talamanca Range, Costa Rica
-
-![CostaRica_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/CostaRica/Maps/CostaRica_DEM_BoundingBox_BlueGlacialZone_Grid.png)
-![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/CostaRica/Figures/Supercatchment9_hBench_vs_hChange.png)
-
-  * [**Script**](/PHtools/Analysis/CostaRica.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures) 
-
-
