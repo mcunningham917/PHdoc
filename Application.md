@@ -42,7 +42,8 @@ to (after subtraction by) the cold-phase ELA (cpELA; y-axis); zero on the y-axis
 therefore indicates a hypsometric maximum at the cpELA. Glacial limitation is inferred 
 for all SRTM tiles with a hypsometric maximum between the wpELA and cpELA. The tiles of 
 tropical mountain ranges analyzed in this study are in green and labeled according to the 
-scheme used in Figs. 3 and 8: (a) Leuser Range, Aceh (omitted here); (b) Central Range, 
+scheme used in ["Study sites"]("Study sites"), [Data](Data), [Analyses](Analyses): 
+(a) Leuser Range, Aceh (omitted here); (b) Central Range, 
 Taiwan; (c) Talamanca Range, Costa Rica; (d) Crocker Range, Borneo (omitted here); (e) 
 Finisterre Range, Papua New Guinea; (f) Owen Stanley Range, Papua New Guinea; 
 (g) Merauke Range, Papua; (h) Mérida Range, Venezuela; (i) Sierra Nevada de Santa Marta, 
