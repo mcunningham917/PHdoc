@@ -56,4 +56,4 @@ analysis:
 
 *SRTM DEMs of selected tropical mountain belts. Yellow-green through red spans elevations 
 0-3400 m. Dark blue to light blue is 3400-4500 m (tropical cpELA to wpELA). Black polygons
-circumscribing each range indicate bounds for hypsometric analysis*
+circumscribing each range indicate bounds for hypsometric analysis.*

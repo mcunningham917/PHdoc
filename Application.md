@@ -62,4 +62,4 @@ elevations. Warm-phase ELA (wpELA) and cold-phase ELA (cpELA) are indicated for 
  profile during glacial periods, similar to (b). Red line: interglacial erosion rate 
  profile, characterized by headward migrating escarpment (along dashed line above erosion
   rate profile). During interglacials, erosion in previously glaciated landscapes is 
-  ineffective (dashed line, left hand side). *
+  ineffective (dashed line, left hand side).*
