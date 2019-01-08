@@ -35,11 +35,10 @@ on long time-scales far exceeding the interval between major glaciations.
 
 ### Talamanca Range, Costa Rica
 
-![Supercatchment9_hBench_vs_hChange](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures/Supercatchment9_hBench_vs_hChange.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/CostaRica/Figures/Supercatchment9_hBench_vs_hChange.png)
 
-[Supercatchment9_hBench_vs_hChange](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures/Supercatchment9_hBench_vs_hChange.png)
+[Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/CostaRica/Figures/Supercatchment9_hBench_vs_hChange.png)
 
-"[Supercatchment9_hBench_vs_hChange](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures/Supercatchment9_hBench_vs_hChange.png)"
 
   * [**Script**](/PHtools/Analysis/CostaRica.m) to run the analysis in Matlab
   * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Subcatchments)
