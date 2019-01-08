@@ -1,3 +1,19 @@
-name: Doc
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Progressive Hypsometry
+tagline:             ''
+description:         'Progressive Hypsometry'
+url:                 '/PHdoc'
+baseurl:             '/PHdoc'
+paginate:            8
+
+# About/contact
+author:
+  name:             Max Cunningham
+  url:              https://github.com/mcunningham917
+  email:            cunningham.mt917@gmail.com

@@ -1,2 +1,1 @@
-# PHdoc
-Description and visualization of progressive hypsometry
+# Progressive Hypsometry
