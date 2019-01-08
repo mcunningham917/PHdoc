@@ -16,7 +16,7 @@ lc_title: analyses
   * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Aceh/PHBs) 
   * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Aceh/Figures) 
 
-### LCentral Range, Taiwan
+### Central Range, Taiwan
 
 ![Taiwan_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Taiwan/Maps/Taiwan_DEM_BoundingBox_BlueGlacialZone_Grid.png)
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Taiwan/Figures/Supercatchment9_hBench_vs_hChange.png)
@@ -36,4 +36,74 @@ lc_title: analyses
   * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/PHBs) 
   * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures) 
 
+
+### Crocker Range, Borneo
+
+![Borneo_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Borneo/Maps/Borneo_DEM_BoundingBox_BlueGlacialZone_Grid.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Borneo/Figures/Supercatchment9_hBench_vs_hChange.png)
+
+  * [**Script**](/PHtools/Analysis/Borneo.m) to run the analysis in Matlab
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/Subcatchments)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/PHBs) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/Figures) 
+
+### Finisterre Range, Papua New Guinea
+
+![Finisterres_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Finisterres/Maps/Finisterres_DEM_BoundingBox_BlueGlacialZone_Grid.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Finisterres/Figures/Supercatchment9_hBench_vs_hChange.png)
+
+  * [**Script**](/PHtools/Analysis/Finisterres.m) to run the analysis in Matlab
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/Subcatchments)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/PHBs) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/Figures) 
+
+### Owen Stanley Range, Papua New Guinea
+
+![OwenStanley_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/OwenStanley/Maps/OwenStanley_DEM_BoundingBox_BlueGlacialZone_Grid.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/OwenStanley/Figures/Supercatchment9_hBench_vs_hChange.png)
+
+  * [**Script**](/PHtools/Analysis/OwenStanley.m) to run the analysis in Matlab
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/Subcatchments)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/PHBs) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/Figures) 
+
+### Merauke Range, Papua
+
+![Merauke_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Merauke/Maps/Merauke_DEM_BoundingBox_BlueGlacialZone_Grid.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Merauke/Figures/Supercatchment9_hBench_vs_hChange.png)
+
+  * [**Script**](/PHtools/Analysis/Merauke.m) to run the analysis in Matlab
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/Subcatchments)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/PHBs) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/Figures) 
+
+### Mérida Range, Venezuela
+
+![Merida_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Merida/Maps/Merida_DEM_BoundingBox_BlueGlacialZone_Grid.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Merida/Figures/Supercatchment9_hBench_vs_hChange.png)
+
+  * [**Script**](/PHtools/Analysis/Merida.m) to run the analysis in Matlab
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/Subcatchments)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/PHBs) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/Figures) 
+
+### Sierra Nevada de Santa Marta, Colombia
+
+![SantaMarta_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/SantaMarta/Maps/SantaMarta_DEM_BoundingBox_BlueGlacialZone_Grid.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/SantaMarta/Figures/Supercatchment9_hBench_vs_hChange.png)
+
+  * [**Script**](/PHtools/Analysis/SantaMarta.m) to run the analysis in Matlab
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/Subcatchments)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/PHBs) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/Figures) 
+
+### Rwenzori, East Africa
+
+![Rwenzori_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Rwenzori/Maps/Rwenzori_DEM_BoundingBox_BlueGlacialZone_Grid.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Rwenzori/Figures/Supercatchment9_hBench_vs_hChange.png)
+
+  * [**Script**](/PHtools/Analysis/Rwenzori.m) to run the analysis in Matlab
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/Subcatchments)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/PHBs) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/Figures) 
 
