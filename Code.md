@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Data
-lc_title: data
+title: Code
+lc_title: Code
 ---
 
-## Digital elevation data used to assess glacial limitation
+## Matlab code
 
+The progressive hypsometry algorithm is implemented in `Matlab` and requires `TopoToolbox`
+to run. 
 
-All topographic analysis was performed on 1-arcsecond (projected at 30 m resolution) 
-Shuttle Radar Topography Mission (SRTM) digital topography (Farr et al., 2007). 
-SRTM data were acquired using 
-[U.S. Geological Survey Earth Explorer](https://earthexplorer.usgs.gov).
-
-![SRTM DEMs of selected tropical mountain belts](img/f03.png)
-
-*SRTM DEMs of selected tropical mountain belts. Yellow-green through red spans elevations 
-0-3400 m. Dark blue to light blue is 3400-4500 m (tropical cpELA to wpELA). Black polygons
-circumscribing each range indicate bounds for hypsometric analysis*
+The `Matlab` code is archive as a `GitHub` repository at [PHtools](PHtools). 
+This repo is very simple: it consists of a [Core/](PHtools/tree/master/Core) folder 
+containing the set of scripts needed to peform progressive hypsometry, 
+and an [Example/](PHtools/tree/master/Example) folder containing a demo driver script
+[CostaRica.m](PHtools/tree/master/Example/CostaRica.m) and a 
+[Defaults.m](PHtools/tree/master/Example/Defaults.m) script that can be shared by 
+multiple drivers.
