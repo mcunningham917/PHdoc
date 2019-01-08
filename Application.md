@@ -67,6 +67,7 @@ elevations. Warm-phase ELA (wpELA) and cold-phase ELA (cpELA) are indicated for 
 
 ### Talamanca Range, Costa Rica
 
+![CostaRica_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/CostaRica/Maps/CostaRica_DEM_BoundingBox_BlueGlacialZone_Grid.png)
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/CostaRica/Figures/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/CostaRica.m) to run the analysis in Matlab
