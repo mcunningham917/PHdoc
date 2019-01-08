@@ -27,7 +27,7 @@ and a
 script that can be shared by multiple driver scripts.
 
 A full application of the code is archived on a separate repository 
-at [`PHanalysis`](PHanalysis) (see [Application](/Application) for more details). 
+at [`PHanalysis`](PHanalysis) (see [Application](/PHdoc/Application) for more details). 
 The data used in this application are archived 
 separately on the [`PHdata`](/PHdata) repository 
-(see [Data](Data) for more details). 
+(see [Data](/PHdoc/Data) for more details). 
