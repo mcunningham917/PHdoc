@@ -4,7 +4,7 @@ title: 'Analyses'
 lc_title: analyses
 ---
 
-## Revealing how glacial erosion limits the height of tropical mountain ranges
+### Revealing how glacial erosion limits the height of tropical mountain ranges
 
 ### Leuser Range, Aceh, Indonesia
 

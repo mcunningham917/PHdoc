@@ -4,7 +4,7 @@ title: 'Study sites'
 lc_title: 'study sites'
 ---
 
-## Revealing how glacial erosion limits the height of tropical mountain ranges
+### Revealing how glacial erosion limits the height of tropical mountain ranges
 
 
 ![SRTM DEMs of selected tropical mountain belts](img/f03.png)
