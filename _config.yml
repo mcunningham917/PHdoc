@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Progressive Hypsometry
 tagline:             ''
 description:         'Progressive Hypsometry'
-url:                 '/PHdoc'
-baseurl:             '/PHdoc'
+url:                 '/'
+baseurl:             '/'
 paginate:            8
 
 # About/contact
