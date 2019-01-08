@@ -31,25 +31,18 @@ must be circumferentially well-connected to external base-level
 The following ten tropical mountain ranges remain and were selected for
 analysis:
 
-1)  Leuser Range, Aceh, Indonesia
-
-2)  Central Range, Taiwan
-
-3)  Talamanca Range, Costa Rica
-
-4)  Crocker Range, Borneo
-
-5)  Finisterre Range, Papua New Guinea
-
-6)  Owen Stanley Range, Papua New Guinea
-
-7)  Merauke Range, Papua
-
-8)  Mérida Range, Venezuela
-
-9)  Sierra Nevada de Santa Marta, Colombia
-
-10) Rwenzori, East Africa
+<ol type="a">
+  <li>Leuser Range, Aceh, Indonesia</li>
+  <li>Central Range, Taiwan</li>
+  <li>Talamanca Range, Costa Rica</li>
+  <li>Crocker Range, Borneo</li>
+  <li>Finisterre Range, Papua New Guinea</li>
+  <li>Owen Stanley Range, Papua New Guinea</li>
+  <li>Merauke Range, Papua</li>
+  <li>Mérida Range, Venezuela</li>
+  <li>Sierra Nevada de Santa Marta, Colombia</li>
+  <li>Rwenzori, East Africa</li>
+</ol>
 
 
 ![SRTM DEMs of selected tropical mountain belts](img/f03.png)
