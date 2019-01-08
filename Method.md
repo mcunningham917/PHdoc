@@ -87,7 +87,8 @@ on both the pdf and DEM, and are also represented as red dots in (b).
 ![Mapping single progressive hypsometry chains on the mountain range scale](img/f05.png)
 
 Mapping single progressive hypsometry chains on the mountain range scale. 
-(a) Same as Fig. 4b. Modal elevation is calculated for subcatchments progressively 
+(a) Same as previous figure (b). 
+Modal elevation is calculated for subcatchments progressively 
 extracted along single chain. (b) On the scale of a supercatchment 
 (e.g., previous figure (a)), jumps 
 in modal elevation for each chain are plotted corresponding to the outlet elevation at 
