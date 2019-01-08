@@ -13,7 +13,8 @@ Version R2018b of [`Matlab`](https://www.mathworks.com/products/matlab.html)
 is assumed; other versions are likely to be compatible.
 Version 2.0 of [`TopoToolbox`](https://topotoolbox.wordpress.com/) is assumed, but later
 versions may be compatible.
-The `Matlab` code is archived as a `GitHub` repository at [PHtools](PHtools). 
+The [`Matlab`](https://www.mathworks.com/products/matlab.html) code is archived as a 
+[`GitHub`](https://github.com) repository at [PHtools](PHtools). 
 
 This code is very simple: it consists of a 
 [`Core/`](https://github.com/mcunningham917/PHtools/tree/master/Core) folder 
