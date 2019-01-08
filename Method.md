@@ -10,13 +10,12 @@ We designed an algorithm that concisely describes how hypsometry varies
 with the scale of analysis. Development of this algorithm was motivated
 by the observation that the hypsometric maximum of large regions can
 shift by several kilometers depending on the boundaries of analysis. The
-algorithm, which we term "progressive hypsometry," (PH) involves the
+algorithm, which we term "progressive hypsometry" (PH), involves the
 measurement of hypsometric maxima in nested catchments whose outlets
 span from the lowest to the highest elevations in a mountain range.
 
 ![Progressive hypsometry in detail](img/f04.png)
 
-### Algorithm
 
 *Progressive hypsometry in detail. (a) DEM of one supercatchment from the Talamanca Range. 
 Elevation 0-4000 m is yellow through white. The dark blue streamline is an example of one 
@@ -28,6 +27,7 @@ modal elevation is commonly observed in all landscapes. (c-f) Elevation pdf and 
 catchments at each jump in modal elevation in (b). Red dots indicate the catchment outlet 
 on both the pdf and DEM, and are also represented as red dots in (b).*
 
+### Algorithm
 
 Progressive hypsometry consists of three major components:
 (i) segmentation of the landscape into large catchments,
