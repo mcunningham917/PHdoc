@@ -26,3 +26,8 @@ and a
 [`Defaults.m`](https://github.com/mcunningham917/PHtools/tree/master/Example/Defaults.m) 
 script that can be shared by multiple driver scripts.
 
+A full application of the code is archived on a separate repository 
+at [PHanalysis](PHanalysis) (see [Application](Application) for more details). 
+The data used in this application are archived 
+separately on the [PHdata](PHdata) repository 
+(see [Data](Data) for more details). 
