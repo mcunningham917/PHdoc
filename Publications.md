@@ -18,4 +18,12 @@ lc_title: publications
 
 ### Conference Papers
 
-1. TBD
+1. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, Joerg M. Schaefer, and Gisela Winckler. "[Evidence     of a low-latitude glacial buzzsaw: Progressive  hypsometry reveals height-limiting glacial erosion in tropical mountain belts]," *AGU Fall Meeting Abstracts*, EP53B-1693, 2017.
+
+2. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, and Joerg M. Schaefer 2016. "[Glacial Buzzcutting and Scarp Encroachment Limit the Height of Tropical Mountains]," *AGU Fall Meeting Abstracts*, EP53C-0970, 2016.
+
+3. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, and Joerg M. Schaefer. "[Dueling Erosion Fronts: Glacial buzzcutting and nonglacial scarp encroachment limit the height of tropical mountains] (doi: 10.1130/abs/2016AM-279307)," *Geological Society of America Abstracts with Programs*, 48, 7, 2016.
+
+4. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, Joerg M. Schaefer, Joseph M., Galewsky, and Jinwoong Yoo. "[Linking glacial erosion and low-relief landscapes in tropical orogens]," *AGU Fall Meeting Abstracts*, T33A-2923, 2015.
+
+5. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, and Joerg M. Schaefer . "[Buzzcut or fossil? Exploring the origin of low-relief landscapes in the tropics]," *AGU Fall Meeting Abstracts*, EP21B-3533, 2014.
