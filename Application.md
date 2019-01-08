@@ -108,6 +108,9 @@ analysis:
 
 10) Rwenzori, East Africa
 
+
+![SRTM DEMs of selected tropical mountain belts](img/f03.png)
+
 ### Talamanca Range, Costa Rica
 
 ![CostaRica_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/CostaRica/Maps/CostaRica_DEM_BoundingBox_BlueGlacialZone_Grid.png)
