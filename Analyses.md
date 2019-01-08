@@ -6,8 +6,6 @@ lc_title: analyses
 
 ## Revealing how glacial erosion limits the height of tropical mountain ranges
 
-![SRTM DEMs of selected tropical mountain belts](img/f03.png)
-
 ### Leuser Range, Aceh, Indonesia
 
 ![Aceh_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Aceh/Maps/Aceh_DEM_BoundingBox_BlueGlacialZone_Grid.png)
