@@ -64,7 +64,7 @@ elevations. Warm-phase ELA (wpELA) and cold-phase ELA (cpELA) are indicated for 
   rate profile). During interglacials, erosion in previously glaciated landscapes is 
   ineffective (dashed line, left hand side). 
 
-## Analyses
+# Study sites
 
 Seeking to broadly assess the potential for glacial limitation in
 tropical mountain ranges, we reviewed all those ranges close to the
@@ -107,6 +107,11 @@ analysis:
 9)  Sierra Nevada de Santa Marta, Colombia
 
 10) Rwenzori, East Africa
+
+
+
+
+# Analyses
 
 
 ![SRTM DEMs of selected tropical mountain belts](img/f03.png)
