@@ -73,8 +73,6 @@ into 30-60 supercatchments. We then do the following:
         *\[h\_change\_k(i),h\_bench\_k(i)\] *
 
 ![Progressive hypsometry in detail](img/f04.png)
-![Progressive hypsometry in detail](/img/f04.png)
-![Progressive hypsometry in detail](/PHdoc/img/f04.png)
 
 Progressive hypsometry in detail. (a) DEM of one supercatchment from the Talamanca Range. 
 Elevation 0-4000 m is yellow through white. The dark blue streamline is an example of one 
@@ -85,5 +83,17 @@ in (a). Each subcatchment in (a) is represented on (b). The stepped pattern in c
 modal elevation is commonly observed in all landscapes. (c-f) Elevation pdf and DEM of 
 catchments at each jump in modal elevation in (b). Red dots indicate the catchment outlet 
 on both the pdf and DEM, and are also represented as red dots in (b).
+
+![Mapping single progressive hypsometry chains on the mountain range scale](img/f05.png)
+
+Mapping single progressive hypsometry chains on the mountain range scale. 
+(a) Same as Fig. 4b. Modal elevation is calculated for subcatchments progressively 
+extracted along single chain. (b) On the scale of a supercatchment 
+(e.g., previous figure (a)), jumps 
+in modal elevation for each chain are plotted corresponding to the outlet elevation at 
+which the jump occurs (h_change). Red points are same as (a) and correspond with 
+catchments in the previous figure (c-f). 
+(c) Same as b, except for all chains in entire mountain 
+range (Talamanca Range, Costa Rica). 
 
 
