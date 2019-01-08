@@ -4,7 +4,7 @@ title: 'Application'
 lc_title: application
 ---
 
-### Revealing how glacial erosion limits the height of tropical mountain ranges
+#### *Revealing how glacial erosion limits the height of tropical mountain ranges*
 
 
 Absent glacial erosion, mountain range height is limited by the 
