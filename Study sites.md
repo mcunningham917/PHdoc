@@ -7,8 +7,6 @@ lc_title: 'study sites'
 ### Revealing how glacial erosion limits the height of tropical mountain ranges
 
 
-![SRTM DEMs of selected tropical mountain belts](img/f03.png)
-
 Seeking to broadly assess the potential for glacial limitation in
 tropical mountain ranges, we reviewed all those ranges close to the
 height of the cpELA. Within this broad selection, we sought a subset
@@ -27,6 +25,8 @@ Africa (Mt. Kilimanjaro and Mt. Kenya) and Papua New Guinea (Mt. Giluwe)
 were excluded from our analysis. A final constraint was that each range
 must be circumferentially well-connected to external base-level
 (sea-level or lake-level) by relatively short fluvial links.
+
+
 
 The following ten tropical mountain ranges remain and were selected for
 analysis:
@@ -52,5 +52,8 @@ analysis:
 10) Rwenzori, East Africa
 
 
+![SRTM DEMs of selected tropical mountain belts](img/f03.png)
 
-
+*SRTM DEMs of selected tropical mountain belts. Yellow-green through red spans elevations 
+0-3400 m. Dark blue to light blue is 3400-4500 m (tropical cpELA to wpELA). Black polygons
+circumscribing each range indicate bounds for hypsometric analysis*

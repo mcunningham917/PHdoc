@@ -35,7 +35,7 @@ on long time-scales far exceeding the interval between major glaciations.
 
 ![Hypsometric maximum of glaciated 1°x1° SRTM tiles](img/f01.png)
 
-Hypsometric maximum of glaciated 1°x1° SRTM tiles (adapted from Fig. 2 of 
+*Hypsometric maximum of glaciated 1°x1° SRTM tiles (adapted from Fig. 2 of 
 Egholm et al., 2009, data provided courtesy of V. Pedersen). Each tile is plotted by its 
 approximate warm-phase (modern) ELA (wpELA; x-axis) and its hypsometric maximum relative 
 to (after subtraction by) the cold-phase ELA (cpELA; y-axis); zero on the y-axis 
@@ -47,11 +47,11 @@ Taiwan; (c) Talamanca Range, Costa Rica; (d) Crocker Range, Borneo (omitted he
 Finisterre Range, Papua New Guinea; (f) Owen Stanley Range, Papua New Guinea; 
 (g) Merauke Range, Papua; (h) Mérida Range, Venezuela; (i) Sierra Nevada de Santa Marta, 
 Colombia (omitted here); (j) Rwenzori, East Africa. The Leuser Range, Crocker Range, 
-and Santa Marta were not included in the analysis by Egholm et al., 2009.
+and Santa Marta were not included in the analysis by Egholm et al., 2009.*
 
 ![Fluvial vs glacial limitation](img/f02.png)
 
-Fluvial limitation: vertical erosion rate vs. elevation in steady state, 
+*Fluvial limitation: vertical erosion rate vs. elevation in steady state, 
 fluvially-limited regime. Black line: slow rock uplift; red line: fast rock uplift. 
 The rate of rock uplift sets steady-state peak elevations (closed circle) at different 
 elevations. Warm-phase ELA (wpELA) and cold-phase ELA (cpELA) are indicated for reference,
@@ -62,4 +62,4 @@ elevations. Warm-phase ELA (wpELA) and cold-phase ELA (cpELA) are indicated for 
  profile during glacial periods, similar to (b). Red line: interglacial erosion rate 
  profile, characterized by headward migrating escarpment (along dashed line above erosion
   rate profile). During interglacials, erosion in previously glaciated landscapes is 
-  ineffective (dashed line, left hand side). 
+  ineffective (dashed line, left hand side). *
