@@ -4,8 +4,6 @@ title: Code
 lc_title: Code
 ---
 
-## Matlab code
-
 The progressive hypsometry algorithm is implemented in 
 [`Matlab`](https://www.mathworks.com/products/matlab.html) and requires 
 [`TopoToolbox`](https://topotoolbox.wordpress.com/) to run. 
