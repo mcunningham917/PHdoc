@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code
-lc_title: Code
+lc_title: code
 ---
 
 The progressive hypsometry algorithm is implemented in 
