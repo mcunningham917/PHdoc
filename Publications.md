@@ -16,7 +16,7 @@ lc_title: publications
   *Earth Surface Dynamics*: discussion paper/preprint, 2018.
 
 
-### Conference Papers
+## Conference Papers
 
 1. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, Joerg M. Schaefer, and Gisela Winckler. 
    "[Evidence of a low-latitude glacial buzzsaw: Progressive hypsometry reveals height-limiting glacial erosion in tropical mountain belts](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/255005)," 
