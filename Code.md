@@ -9,7 +9,7 @@ The progressive hypsometry algorithm is implemented in
 [`TopoToolbox`](https://topotoolbox.wordpress.com/) to run. 
 Version R2017b of [`Matlab`](https://www.mathworks.com/products/matlab.html) 
 is assumed; other versions are likely to be compatible.
-Version 2.0 of [`TopoToolbox`](https://topotoolbox.wordpress.com/) is assumed, but later
+Version 2.1 of [`TopoToolbox`](https://topotoolbox.wordpress.com/) is assumed, but later
 versions may be compatible.
 The [`Matlab`](https://www.mathworks.com/products/matlab.html) code is archived as a 
 [`GitHub`](https://github.com) repository at 
