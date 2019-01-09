@@ -4,7 +4,7 @@ title: Execution
 lc_title: execution
 ---
 
-Matlab scripts are separated into two folders: [`Example`](https://github.com/mcunningham917/PHtools/tree/master/Example), designed for simple user experience, and [`Core/`](https://github.com/mcunningham917/PHtools/tree/master/Core), which contains the scripts need to run PH.
+Matlab scripts are separated into two folders: [`Example/`](https://github.com/mcunningham917/PHtools/tree/master/Example), designed for simple user experience, and [`Core/`](https://github.com/mcunningham917/PHtools/tree/master/Core), which contains the scripts need to run PH.
 
 [`Example/`](https://github.com/mcunningham917/PHtools/tree/master/Example) includes two scripts needed to perform the demo:
 
@@ -17,7 +17,8 @@ It is assumed that all users have access to the example Supercatchment: [`PHdata
 
 `Defaults` sets the path for PHtools, Topotoolbox, and all input (PHdata) and output (PHanalysis) data.
 
-`CostaRica.m` runs the complete PH algorithm. It calls the script [`RunPH.m`] (https://github.com/mcunningham917/PHtools/blob/master/Core/RunPH.m), which performs the following three steps:
+`CostaRica.m` runs the complete PH algorithm. It calls the script 
+[`RunPH.m`](https://github.com/mcunningham917/PHtools/blob/master/Core/RunPH.m), which performs the following three steps:
 
 ## Step 1: Hypsometry of progressive (nested) subcatchments
 
