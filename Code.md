@@ -12,7 +12,8 @@ is assumed; other versions are likely to be compatible.
 Version 2.0 of [`TopoToolbox`](https://topotoolbox.wordpress.com/) is assumed, but later
 versions may be compatible.
 The [`Matlab`](https://www.mathworks.com/products/matlab.html) code is archived as a 
-[`GitHub`](https://github.com) repository at [PHtools](PHtools). 
+[`GitHub`](https://github.com) repository at 
+[`PHtools`](https://github.com/mcunningham917/PHtools). 
 
 This code is very simple: it consists of a 
 [`Core/`](https://github.com/mcunningham917/PHtools/tree/master/Core) folder 
