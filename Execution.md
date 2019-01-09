@@ -15,9 +15,9 @@ Matlab scripts are separated into two folders: [`Example/`](https://github.com/m
 
 It is assumed that all users have access to the example Supercatchment: [`PHdata/CostaRica/Supercatchments/CostaRicaSupercatchment9.tif`](https://github.com/mcunningham917/PHdata/tree/master/CostaRica/Supercatchments)
 
-`Defaults` sets the path for PHtools, Topotoolbox, and all input (PHdata) and output (PHanalysis) data.
+[`Defaults`](https://github.com/mcunningham917/PHtools/blob/master/Example/Defaults.m) sets the path for PHtools, Topotoolbox, and all input (PHdata) and output (PHanalysis) data.
 
-`CostaRica.m` runs the complete PH algorithm. It calls the script 
+[`CostaRica.m`](https://github.com/mcunningham917/PHtools/blob/master/Example/CostaRica.m) runs the complete PH algorithm. It calls the script 
 [`RunPH.m`](https://github.com/mcunningham917/PHtools/blob/master/Core/RunPH.m), which performs the following three steps:
 
 ## Step 1: Hypsometry of progressive (nested) subcatchments
