@@ -6,7 +6,7 @@ lc_title: execution
 
 Matlab scripts are separated into two folders: `Example`, designed for simple user experience, and `Core/`, which contains the scripts need to run PH.
 
-`Example` includes two scripts needed to perform the demo:
+`Example/` includes two scripts needed to perform the demo:
 
 `Defaults.m`, a script that be can shared by multiple driver scripts. 
 `CostaRica.m`, used to generate the example analysis.
