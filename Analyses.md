@@ -12,9 +12,9 @@ lc_title: analyses
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Aceh/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/Aceh.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Aceh/Subcatchments)
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Aceh/Subcatchments/25mStep)
   * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Aceh/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Aceh/Figures) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Aceh/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -26,9 +26,9 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Taiwan/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/Taiwan.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Taiwan/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Taiwan/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Taiwan/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Taiwan/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Taiwan/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Taiwan/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -40,9 +40,9 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/CostaRica/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/CostaRica.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -55,9 +55,9 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Borneo/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/Borneo.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -69,9 +69,9 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Finisterres/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/Finisterres.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Finisterres/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -83,9 +83,9 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/OwenStanley/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/OwenStanley.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/OwenStanley/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -97,9 +97,9 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Merauke/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/Merauke.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Merauke/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -111,9 +111,9 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Merida/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/Merida.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Merida/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -125,9 +125,9 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/SantaMarta/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/SantaMarta.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/SantaMarta/Figures/SupercatchmentPHBs) 
 
 ___
 
@@ -139,7 +139,7 @@ ___
 ![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Rwenzori/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
 
   * [**Script**](/PHtools/Analysis/Rwenzori.m) to run the analysis in Matlab
-  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/Subcatchments)
-  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/PHBs) 
-  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/Figures) 
+  * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/Subcatchments/25mStep)
+  * [**Benches**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/PHBs/AllSupercatchments) 
+  * [**Figures**](https://github.com/mcunningham917/PHanalysis/blob/master/Rwenzori/Figures/SupercatchmentPHBs) 
 
