@@ -9,6 +9,7 @@ Matlab scripts are separated into two folders: [`Example/`](https://github.com/m
 [`Example/`](https://github.com/mcunningham917/PHtools/tree/master/Example) includes two scripts needed to perform the demo:
 
 [`Defaults.m`](https://github.com/mcunningham917/PHtools/blob/master/Example/Defaults.m), a script that be can shared by multiple driver scripts. 
+
 [`CostaRica.m`](https://github.com/mcunningham917/PHtools/blob/master/Example/CostaRica.m), used to generate the example analysis.
 
 The example script draws from a single "supercatchment" in [`Data`](https://github.com/mcunningham917/PHtools/tree/master/Data/CostaRica/Supercatchments) (see [Alogorithm](https://mcunningham917.github.io/PHdoc/Method/) for terminology), and writes a folder called `CostaRica/PHanalysis`, which mimics the data output in the [`PHanalysis`](https://github.com/mcunningham917/PHanalysis) repository. The run time for the Costa Rica example is ~30 minutes, and writes 15 Mb of output. 
