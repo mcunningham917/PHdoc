@@ -31,7 +31,7 @@ Create and write .txt file for each flow path. For example: [`PHanalysis/CostaRi
 
 Identify groups of nested subcatchments with similar modal elevation, PHBs (see [Method](https://mcunningham917.github.io/PHdoc/Method/) for explanation.) 
 
-Create and write .txt file for each PHB: [`PHanalysis/ROI/PHBs/AllSupercatchments`](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchments). 
+Create and write .txt file for each PHB: [`PHanalysis/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchmentsTxt/Supercatchment9PHBs`](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchmentsTxt/Supercatchment9PHBs). 
 
 A PHB is the modal elevation shared by a set of nested subcatchments, and this elevation band can be mapped onto the landscape. [`PHBWriteToTiff`](https://github.com/mcunningham917/PHtools/blob/master/Core/WritePHBtoTiff.m) outputs a geotiff of all PHBs in the input supercatchment.
 
