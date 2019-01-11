@@ -12,7 +12,7 @@ Matlab scripts are separated into two folders: [`Example/`](https://github.com/m
 
 [`CostaRica.m`](https://github.com/mcunningham917/PHtools/blob/master/Example/CostaRica.m), used to generate the example analysis.
 
-The example script draws from a single "supercatchment" in [`Data`](https://github.com/mcunningham917/PHtools/tree/master/Data/CostaRica/Supercatchments) (see [Alogorithm](https://mcunningham917.github.io/PHdoc/Method/) for terminology), and writes a folder called `CostaRica/PHanalysis`, which mimics the data output in the [`PHanalysis`](https://github.com/mcunningham917/PHanalysis) repository. The run time for the Costa Rica example is ~30 minutes, and writes 15 Mb of output. 
+The example script draws from a single "supercatchment" in [`Data`](https://github.com/mcunningham917/PHtools/tree/master/Data/CostaRica/Supercatchments) (see [Method](https://mcunningham917.github.io/PHdoc/Method/) for terminology), and writes a folder called `CostaRica/PHanalysis`, which mimics the data output in the [`PHanalysis`](https://github.com/mcunningham917/PHanalysis) repository. The run time for the Costa Rica example is ~30 minutes, and writes 15 Mb of output. 
 
 # How to run PH example
 
@@ -29,7 +29,7 @@ Create and write .txt file for each flow path. For example: [`PHanalysis/CostaRi
 
 ## Step 2: Progressive Hypomsetric Bench (PHB) Identification
 
-Identify groups of nested subcatchments with similar modal elevation, PHBs (see [`Alogorithm`](https://mcunningham917.github.io/PHdoc/Method/) for explanation.)
+Identify groups of nested subcatchments with similar modal elevation, PHBs (see [Method](https://mcunningham917.github.io/PHdoc/Method/) for explanation.)
 
 Create and write .txt file for each PHB: [`PHanalysis/ROI/PHBs/AllSupercatchments`](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchments).
 
