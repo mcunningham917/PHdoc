@@ -27,11 +27,11 @@ Traverse upstream from base level to main drainage divide along chains (flowpath
 
 Create and write .txt file for each flow path. For example: [`PHanalysis/CostaRica/Subcatchments/25mStep`](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/Subcatchments/25mStep)
 
-## Step 2: Progressive Hypomsetric Bench (PHB) Identification
+## Step 2: Progressive Hypomsetric Bench (PHB) Identification (15 minute run time)
 
-Identify groups of nested subcatchments with similar modal elevation, PHBs (see [Method](https://mcunningham917.github.io/PHdoc/Method/) for explanation.)
+Identify groups of nested subcatchments with similar modal elevation, PHBs (see [Method](https://mcunningham917.github.io/PHdoc/Method/) for explanation.) 
 
-Create and write .txt file for each PHB: [`PHanalysis/ROI/PHBs/AllSupercatchments`](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchments).
+Create and write .txt file for each PHB: [`PHanalysis/ROI/PHBs/AllSupercatchments`](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchments). 
 
 A PHB is the modal elevation shared by a set of nested subcatchments, and this elevation band can be mapped onto the landscape. [`PHBWriteToTiff`](https://github.com/mcunningham917/PHtools/blob/master/Core/WritePHBtoTiff.m) outputs a geotiff of all PHBs in the input supercatchment.
 
