@@ -40,5 +40,5 @@ A PHB is the modal elevation shared by a set of nested subcatchments, and this e
 
 Read in PHB text files and generate plot of outlet vs. modal elevation for all PHBs in the supercatchment.
 
-For this example, users can specify file type for a final figure (`outputFigType`) and axes scale (`peakElevationForOutputFig`). 
+For this example, users can specify file type for a final figure (`outputFigType`) and axes scale (`peakElevationForOutputFig`). See [figure output](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png) for the example data set in the true [`PHanalysis`](https://github.com/mcunningham917/PHanalysis) repository.
 
