@@ -52,7 +52,7 @@ ___
 ### Crocker Range, Borneo
 
 ![Borneo_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Borneo/Maps/Borneo_DEM_BoundingBox_BlueGlacialZone_Grid.png)
-![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Borneo/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
+![Supercatchment9_hBench_vs_hChange](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/Borneo/Figures/SupercatchmentPHBs/Supercatchment18_hBench_vs_hChange.png)
 
   * [**Script**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo.m) to run the analysis in Matlab
   * [**Subcatchments**](https://github.com/mcunningham917/PHanalysis/blob/master/Borneo/Subcatchments/25mStep)
