@@ -6,7 +6,6 @@ lc_title: publications
 
 ### Journal articles
 
-
 1. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, & Joerg M. Schaefer. 
   "[Glacial limitation of tropical mountain height](https://doi.org/10.5194/esurf-2018-38)," 
   *Earth Surface Dynamics*: in press, 2019a.
