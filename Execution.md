@@ -7,7 +7,7 @@ lc_title: execution
 Matlab scripts are separated into two folders: 
 [`Example/`](https://github.com/mcunningham917/PHtools/tree/master/Example), 
 designed for simple user experience, and [`Core/`](https://github.com/mcunningham917/PHtools/tree/master/Core),
- which contains the scripts needed to run PH. [Topotoolbox v. 2.1](https://github.com/wschwanghart/topotoolbox)
+ which contains the scripts needed to run PH. [TopoToolbox v.2.1](https://github.com/wschwanghart/topotoolbox)
   is required to run PHtools. 
 
 [`Example/`](https://github.com/mcunningham917/PHtools/tree/master/Example)
