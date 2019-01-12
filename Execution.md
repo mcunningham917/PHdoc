@@ -68,6 +68,6 @@ For this example, users can specify file type for a final figure (`outputFigType
 axes scale (`peakElevationForOutputFig`). 
 See 
 [figure output](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png) 
-for the example data set in the true [`PHanalysis`](https://github.com/mcunningham917/PHanalysis) repository.
+for the example data set in the true [`PHanalysis`](https://github.com/mcunningham917/PHanalysis) repository:
 
 ![figure output](https://raw.githubusercontent.com/mcunningham917/PHanalysis/master/CostaRica/Figures/SupercatchmentPHBs/Supercatchment9_hBench_vs_hChange.png)
