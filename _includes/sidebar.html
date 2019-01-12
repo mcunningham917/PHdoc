@@ -19,7 +19,7 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-    {% assign pages_list = site.pages | sort:"url" %}
+    <!-- {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
@@ -27,8 +27,17 @@
           href="{{ site.baseurl }}/{{ node.title }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
-    {% endfor %}
+    {% endfor %} -->
+    
     <a class="sidebar-nav-item" href="{{ site.baseurl }}/Method">Method</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Execution">Execution</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Code">Code</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Application">Application</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Study%20sites">Study sites</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Data">Data</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Analyses">Analyses</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Publications">Publications</a>
+    
   </nav>
 
   <div class="sidebar-item">
