@@ -6,6 +6,8 @@ lc_title: analyses
 
 #### *Revealing how glacial erosion limits the height of tropical mountain ranges*
 
+Mountain range DEMs are constructed from  1-arcsecond [SRTM digital topography](https://mcunningham917.github.io/PHdoc/Data/), which are available in 1° latitude x 1° longitude tiles. These tiles are mosaicked together to make the DEMs you see below. The color ramp for each DEM is pastel BYG from 0 to 500 m ASL, then GYR from 500 m - 3400 m ASL. The color ramp switches to dark blue-through-light blue from 3400-4500 m, representing the typical range of tropical snowlines (glacial equilibirum altitude, ELA). Area above the ELA band is white.
+
 ### Leuser Range, Aceh, Indonesia
 
 ![Aceh_DEM_BoundingBox_BlueGlacialZone_Grid](https://raw.githubusercontent.com/mcunningham917/PHdata/master/Aceh/Maps/Aceh_DEM_BoundingBox_BlueGlacialZone_Grid.png)
