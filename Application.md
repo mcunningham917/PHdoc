@@ -6,7 +6,7 @@ lc_title: application
 
 #### *Revealing how glacial erosion limits the height of tropical mountain ranges*
 
-![Nanhudashan scarp](img/tw_scarp.png)
+![Nanhudashan scarp](img/tw_scarp1.png)
 
 Absent glacial erosion, mountain range height is limited by the 
 rate of bedrock river incision, and is thought
