@@ -9,7 +9,7 @@ lc_title: publications
 
 1. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, & Joerg M. Schaefer. 
   "[Glacial limitation of tropical mountain height](https://doi.org/10.5194/esurf-2018-38)," 
-  *Earth Surface Dynamics*: in press, 2019.
+  *Earth Surface Dynamics*: in press, 2019a.
 
 2. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, & Joerg M. Schaefer. 
   "[Glacial buzzcutting limits the height of tropical mountains](https://www.earth-surf-dynam-discuss.net/esurf-2018-38/)," 
@@ -37,3 +37,12 @@ lc_title: publications
 5. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, and Joerg M. Schaefer. 
    "[Buzzcut or fossil? Exploring the origin of low-relief landscapes in the tropics](http://abstractsearch.agu.org/meetings/2014/FM/EP21B-3533.html)," 
    *AGU Fall Meeting Abstracts*, EP21B-3533, 2014.
+   
+ ## Archived repositories
+ 
+ 1. Maxwell T. Cunningham and Colin P. Stark. PHtools (Version 1.0), Zenodo, 
+ 	[doi:10.5281/zenodo.2538233](https://zenodo.org/record/2538233), 2019b.
+ 2. Maxwell T. Cunningham and Colin P. Stark. PHdata (Version 1.0),  Zenodo, 
+ 	[doi:10.5281/zenodo.2538223](https://zenodo.org/record/2538223), 2019c.
+ 3. Maxwell T. Cunningham and Colin P. Stark. PHanalysis (Version 1.0),  Zenodo, 
+ 	[doi:10.5281/zenodo.2538230](https://zenodo.org/record/2538230), 2019d.
