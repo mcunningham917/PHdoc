@@ -24,11 +24,11 @@ lc_title: publications
 
 2. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, and Joerg M. Schaefer 2016. 
    "[Glacial Buzzcutting and Scarp Encroachment Limit the Height of Tropical Mountains](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/149368)," 
-   *AGU Fall Meeting Abstracts*, EP53C-0970, 2016.
+   *AGU Fall Meeting Abstracts*, EP53C-0970, 2016a.
 
 3. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, and Joerg M. Schaefer. 
    "[Dueling Erosion Fronts: Glacial buzzcutting and nonglacial scarp encroachment limit the height of tropical mountains](https://doi.org/10.1130/abs/2016AM-279307)," 
-   *Geological Society of America Abstracts with Programs*, 48, 7, 2016.
+   *Geological Society of America Abstracts with Programs*, 48, 7, 2016b.
 
 4. Maxwell T. Cunningham, Colin P. Stark, Michael R. Kaplan, Joerg M. Schaefer, Joseph M., Galewsky, and Jinwoong Yoo. 
    "[Linking glacial erosion and low-relief landscapes in tropical orogens](https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/75089)," 
