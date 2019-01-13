@@ -4,7 +4,7 @@ title: 'Application'
 lc_title: application
 ---
 
-#### *Revealing how glacial erosion limits the height of tropical mountain ranges*
+#### *Revealing glacial limitation of tropical mountain ranges*
 
 ![Nanhudashan scarp](img/tw_scarp1.png)
 
