@@ -4,7 +4,7 @@ title: Data
 lc_title: data
 ---
 
-### Digital elevation model data used to assess glacial limitation
+### Digital elevation models used to assess glacial limitation
 
 
 All topographic analysis was performed on 1-arcsecond (projected at 30 m resolution) 
